@@ -28,9 +28,11 @@ SDK versioning is done in format XX.YY.ZZ
 
 ### PayFac MP SDKs:
 
-| Version | Java | .NET 
-| ------ | ---- | ---- 
-| 13 | [13.0.0](https://github.com/Worldpay/payfac-mp-sdk-java/releases/tag/13.0.0) | [13.0.0](https://github.com/Worldpay/payfac-mp-sdk-dotnet/releases/tag/13.0.0)
+| Version | Java                                                                         | .NET 
+|---------|------------------------------------------------------------------------------| ---- 
+| 15      | [15.0.0](https://github.com/Worldpay/payfac-mp-sdk-java/releases/tag/13.0.0) | [15.0.0](https://github.com/Worldpay/payfac-mp-sdk-dotnet/releases/tag/13.0.0)
+| 14      | [14.0.0](https://github.com/Worldpay/payfac-mp-sdk-java/releases/tag/13.0.0) | [14.0.0](https://github.com/Worldpay/payfac-mp-sdk-dotnet/releases/tag/13.0.0)
+| 13      | [13.0.0](https://github.com/Worldpay/payfac-mp-sdk-java/releases/tag/13.0.0) | [13.0.0](https://github.com/Worldpay/payfac-mp-sdk-dotnet/releases/tag/13.0.0)
 
 
 <!-- Removing python and php from Payfac MP SDKs -->
